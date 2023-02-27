@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 26,
+  "cssTheme": "Obsidianite",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "heading1",
+    "heading2",
+    "heading3",
+    "Headers456",
+    "headers",
+    "tags",
+    "RealDarkBackground"
+  ]
+}

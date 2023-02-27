@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "91227d5925ff0ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df5740758598880",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbc17ff674053176",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae79841adbab56a9",
+        "type": "tabs",
+        "dimension": 77.3598820058997,
+        "children": [
+          {
+            "id": "34696f407936f595",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "23cd400f2d90a44e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e23372c2ffbc85bb",
+        "type": "tabs",
+        "dimension": 22.640117994100294,
+        "children": [
+          {
+            "id": "626be38dbaaaac43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "490c8fd9e2b0b52e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cb3c8ef3ddf82fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "125577b4c9ba6acc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4641d7c1b52b82d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ae2ef03cdbcc30c",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4641d7c1b52b82d0",
+  "lastOpenFiles": [
+    "000. Journal/Daily Notes/14-02-2022.md",
+    "000. Journal/Daily Notes/14-01-2022.md",
+    "000. Journal/Daily Notes/12-01-2022.md",
+    "000. Journal/Daily Notes/13-01-2022.md",
+    "000. Journal/Daily Notes/11-01-2022.md",
+    "000. Journal/Daily Notes/10-01-2022.md",
+    "000. Journal/Daily Notes/02-04-2022.md",
+    "001. Learning/3D/UE4 Movement in the Viewport.md",
+    "001. Learning/Math.md",
+    "990. Obsidian & Notes/Smart Notes.md"
+  ]
+}

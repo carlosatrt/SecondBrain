@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "91227d5925ff0ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c1a9769cebaf4dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000. Journal/Daily Notes/14-01-2022.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c79974a81f50c17d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001. Learning/3D/0. Blender Links.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbc17ff674053176",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae79841adbab56a9",
+        "type": "tabs",
+        "dimension": 77.3598820058997,
+        "children": [
+          {
+            "id": "34696f407936f595",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "23cd400f2d90a44e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e23372c2ffbc85bb",
+        "type": "tabs",
+        "dimension": 22.640117994100294,
+        "children": [
+          {
+            "id": "626be38dbaaaac43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ae2ef03cdbcc30c",
+    "type": "split",
+    "children": [
+      {
+        "id": "94f300c1b2ba248b",
+        "type": "tabs",
+        "dimension": 23.008849557522122,
+        "children": [
+          {
+            "id": "490c8fd9e2b0b52e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001. Learning/3D/0. Blender Links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "852725236bcfd16e",
+        "type": "tabs",
+        "dimension": 29.20353982300885,
+        "children": [
+          {
+            "id": "7cb3c8ef3ddf82fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e4c51ca40cf4a87",
+        "type": "tabs",
+        "dimension": 47.78761061946902,
+        "children": [
+          {
+            "id": "4641d7c1b52b82d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c79974a81f50c17d",
+  "lastOpenFiles": [
+    "001. Learning/3D/0. Blender Links.md",
+    "000. Journal/Daily Notes/14-01-2022.md",
+    "000. Journal/Daily Notes/13-01-2022.md",
+    "000. Journal/Daily Notes/12-01-2022.md",
+    "000. Journal/Daily Notes/11-01-2022.md",
+    "000. Journal/Daily Notes/10-01-2022.md",
+    "990. Obsidian & Notes/Additional things.md",
+    "991. Templates/Daily note template.md",
+    "000. Journal/Daily Notes/13-02-2022.md",
+    "990. Obsidian & Notes/markdown-cheat-sheet.md"
+  ]
+}

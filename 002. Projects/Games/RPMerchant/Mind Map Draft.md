@@ -1,0 +1,113 @@
+# Mind Map Draft
+
+---
+
+## World Building
+- Real Verticality
+- **Biomes**
+	- Forests
+		- Pine
+		- Birch
+		- Oak
+	- Plains
+		- Bloom Fields
+		- Grass Lands
+		- Hills
+	- Mountains
+	- Swamps
+		- Bogs
+		- Mangrove
+
+- Settlements
+	- Dangers
+		- Bandit Raids.
+		- Gargantuan Creature Attacks
+		- Monster Hordes
+		- Natural Disasters
+	- Types of settlemenst
+		- Medieval Towns
+			- Towns
+			- Hamlets
+			- High Fantasy Metropoly
+				- Inspiration: 
+					- Rathir: KoA Reckoning
+					- Re: Zero
+		- Japanese Inspired
+		- Arabic Inspired
+		- Zeltic/Viking
+
+- Seasons
+	- Spring - 
+	- Summer - 
+	- Atum - 
+	- Winter - 
+
+## Gameplay
+- Single Player
+- Survival features
+	- Sustenance
+		- Water
+		- Food
+		- Sleep
+- Procedural Generation
+	- Wave Fucntion Collapse
+		- Tile based
+- AI
+	- Marriage possible
+		- Give free assitante
+		- Buffs
+		- Costs more to live
+	- For Adventurers
+		- Roam World
+		- Combat Bandits & Mosnters
+		- Some try to rob your store/you.
+		- Capable of romance with store owner
+	- For NPCs town folk
+		- Procedurally generated Dialog???
+		- Capable to romance everyone
+	- Mobs
+		- Atack/Ambus
+		- Raid behaviour
+		- Roam
+- Merchant Simulator
+	- Store Design
+	- House Design
+	- Any building can be used as house, store or both.
+		- Might offer different buffs based on
+			- Layout
+			- Location
+	- Store Management
+		- Cloathing trends
+		- Stock Market
+			- Anti exploit mechanic
+		- Inventory Management
+			- Lots of good require real space
+		- Competition with other stores
+- Explore
+	- Find better prices on other towns and resell for better profit.
+		- Instroduces needs to travel, with risk of getting robbed.
+	- Traveling
+		- Foot - Slow, easy to hide & low carying capacity.
+		- Horse - Fast , no hindin, mid Carrying capacity.
+		- Carriage - Fast, no hiding, calls for suspicions, Hight carrying capatos.
+		- Dangers:
+			- Baddit ambush
+			- Creature ambush
+			- Adventurers (Mad Adventurers, mercenaries,etc)
+- Combat
+	- Real Time Management
+		- Option
+			- Guards.
+				- Safe
+				- Mid Range price
+				- Basic Skills
+				- Wont Take high risk situations
+			- Adventrurers
+				- Multiple Price Ranges
+				- Risk of loosing gear with some Rouge based classes
+				- Specialty
+				- Will Take Hight Risk Situations.
+		- Administer your hiries with a circle menu and slow time when using the skill/action selector.
+	- Action combat
+		- Simple slash on merchant character (Dagger).
+		- Spells on scrolls only

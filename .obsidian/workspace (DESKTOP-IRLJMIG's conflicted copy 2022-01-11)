@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "13b8f38498945b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aae35dfea819307",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbc17ff674053176",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae79841adbab56a9",
+        "type": "tabs",
+        "dimension": 77.3598820058997,
+        "children": [
+          {
+            "id": "34696f407936f595",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "23cd400f2d90a44e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e23372c2ffbc85bb",
+        "type": "tabs",
+        "dimension": 22.640117994100294,
+        "children": [
+          {
+            "id": "626be38dbaaaac43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ae2ef03cdbcc30c",
+    "type": "split",
+    "children": [
+      {
+        "id": "94f300c1b2ba248b",
+        "type": "tabs",
+        "dimension": 23.008849557522122,
+        "children": [
+          {
+            "id": "490c8fd9e2b0b52e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "852725236bcfd16e",
+        "type": "tabs",
+        "dimension": 29.20353982300885,
+        "children": [
+          {
+            "id": "7cb3c8ef3ddf82fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e4c51ca40cf4a87",
+        "type": "tabs",
+        "dimension": 47.78761061946903,
+        "children": [
+          {
+            "id": "4641d7c1b52b82d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "1aae35dfea819307",
+  "lastOpenFiles": [
+    "Projects/VG/Magic Game/Essences.md",
+    "Projects/VG/Magic Game/Core concepts.md",
+    "Projects/VG/MH Remaster/Jungle Island/Untitled.md",
+    "Projects/VG/MH Remaster/Frontier/Main links.md",
+    "Learning/Misc/Masterclass Dog Training/1. Sit.md",
+    "Learning/Misc/Masterclass Dog Training/2. Down.md",
+    "Learning/Misc/Masterclass Dog Training/0. Intro.md",
+    "Obsidian prep.md",
+    "000 Home.md",
+    "This is an example note.md"
+  ]
+}

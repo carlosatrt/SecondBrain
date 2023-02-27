@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "91227d5925ff0ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "56dd18ba9d275058",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d71cec3d9d8f275a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea Organizer.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbc17ff674053176",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a760e5052494f44",
+        "type": "tabs",
+        "dimension": 17.285714285714285,
+        "children": [
+          {
+            "id": "626be38dbaaaac43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#anotherTag",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23cd400f2d90a44e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ae79841adbab56a9",
+        "type": "tabs",
+        "dimension": 82.71428571428572,
+        "children": [
+          {
+            "id": "34696f407936f595",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "1ae2ef03cdbcc30c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b1070ce061a3f43",
+        "type": "tabs",
+        "dimension": 44.57142857142857,
+        "children": [
+          {
+            "id": "7cb3c8ef3ddf82fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "125577b4c9ba6acc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "490c8fd9e2b0b52e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Idea Organizer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "73d4d26ddbffed0d",
+        "type": "tabs",
+        "dimension": 55.42857142857143,
+        "children": [
+          {
+            "id": "4641d7c1b52b82d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d71cec3d9d8f275a",
+  "lastOpenFiles": [
+    "SecondBrain-1/README.md",
+    "SecondBrain-1",
+    "SecondBrain/README.md",
+    "SecondBrain",
+    "001. Learning/Programming for Interview/Data Strcuture - Trees.md",
+    "000 Home.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "991. Attachments/colorinfographic.jpg",
+    "991. Templates/Daily note template.md",
+    "991. Templates/3D Software Template.md",
+    "Other/Recipes.md",
+    "Recipes/Filetes fritos con mantequilla.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "TEST.md",
+    "Minecraft.md",
+    "002. Projects/Games/Ideas.md"
+  ]
+}

@@ -1,0 +1,84 @@
+.theme-dark {
+
+    /*Colors*/
+    
+    --accent-1: #FF00FF;
+    --accent-2: #3700ff;
+    --accent-3: #006eff;
+    --accent-4: #00FFFF;
+    --accent-5: #068306;
+    --accent-6: #7c71c4;
+
+    /*--highlight-1: mediumvioletred/*#5900ffb9*/;
+    --highlight-1: #220522;
+    --highlight-2: #FF1690;
+    --highlight-3: #fa9600cc;
+
+    /*Background*/
+    --background-primary: #000000;
+    --background-primary-alt: #151516;
+    --background-secondary: #191621;
+    --background-secondary-alt: #0d0b12;
+
+    /*--text-normal: var(--accent-1);
+    --text-muted: var(--accent-1-muted);
+    --text-faint: var(--accent-6-muted);*/
+
+}
+
+mark {
+    overflow: visible;
+    /*background-color: var(--highlight-1) !important;*/
+    background-color: ;
+    color: #57fcfc !important;
+    text-shadow: 0 0 0.9em var(--accent-2);
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 8px;
+}
+
+text{
+    color:chartreuse;
+}
+
+strong {
+    overflow: visible;
+    text-shadow: 0 0 0.5em var(--highlight-2);
+}
+
+em {
+    overflow: visible;
+    text-shadow: 0 0 0.5em var(--highlight-3);
+}
+
+.cm-header-1:not(.cm-formatting), h1 {
+    overflow: visible;
+    text-shadow: 0 0 0.5em var(--accent-1);
+}
+
+.cm-header-2:not(.cm-formatting), h2 {
+    overflow: visible;
+    text-shadow: 0 0 0.5em var(--accent-2);
+}
+
+.cm-header-3:not(.cm-formatting), h3 {
+    overflow: visible;
+    text-shadow: 0 0 0.5em var(--accent-3);
+}
+
+.cm-header-4:not(.cm-formatting), h4 {
+    overflow: visible;
+    text-shadow: 0 0 0.5em var(--accent-4);
+}
+
+.cm-header-5:not(.cm-formatting), h5 {
+    overflow: visible;
+    text-shadow: 0 0 0.5em var(--accent-5);
+}
+
+.cm-header-6:not(.cm-formatting), h6 {
+    overflow: visible;
+    text-shadow: 0 0 0.5em var(--accent-6);
+}
