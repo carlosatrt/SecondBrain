@@ -1,5 +1,5 @@
 # Movement in the UE4 viewport
-Tags: #UnrealEngine, #UE4
+Tags: #UnrealEngine
 Date: 14-08-2020
 
 ---
