@@ -1,14 +1,19 @@
 {
-  "baseFontSize": 26,
-  "cssTheme": "Obsidianite",
+  "baseFontSize": 16,
+  "cssTheme": "",
   "accentColor": "",
   "enabledCssSnippets": [
     "heading1",
     "heading2",
     "heading3",
     "Headers456",
-    "headers",
     "tags",
     "RealDarkBackground"
-  ]
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }
